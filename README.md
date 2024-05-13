@@ -6,7 +6,7 @@
 
 HackSprint 2024 - Devspace 
 ==========================
-Evento de tecnologia promovido pelo Devspace.
+Evento de tecnologia promovido pela comunidade Devspace.
 
 # Informações da Hacksprint 
 
